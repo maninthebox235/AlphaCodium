@@ -13,7 +13,7 @@ PyYAML==6.0.1
 starlette-context==0.3.6
 boto3==1.28.25
 google-cloud-storage==2.10.0
-ujson==5.8.0
+ujson==5.12.0
 azure-devops==7.1.0b3
 msrest==0.7.1
 ##
